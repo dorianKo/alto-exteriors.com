@@ -93,7 +93,7 @@
 .ax-downloads h3 {
   font-weight: 400; }
 
-form .form-control {
+.ax-downloads form .form-control {
   background-color: #dddbdb;
   border-radius: 0px;
   border: solid 2px #d6d5d5;
@@ -103,11 +103,11 @@ form .form-control {
   -webkit-transition-duration: 0.4s;
   /* Safari */
   transition-duration: 0.4s; }
-  form .form-control:focus {
+  .ax-downloads form .form-control:focus {
     background-color: #dddbdb;
     border: solid 2px #e35f13; }
 
-form label {
+.ax-downloads form label {
   color: black;
   position: relative;
   left: -40%; }

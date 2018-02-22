@@ -122,30 +122,31 @@
     }
 }
 
-.ax-downloads h3 {
-    font-weight: 400;
-}
-
-form {
-    .form-control {
-        background-color: rgb(221, 219, 219);
-        border-radius: 0px;
-        border: solid 2px rgb(214, 213, 213);
-        -webkit-appearance: none;
-        color: rgb(160, 157, 157);
-        width: 100%;
-        -webkit-transition-duration: 0.4s;
-        /* Safari */
-        transition-duration: 0.4s;
-        &:focus {
-            background-color: rgb(221, 219, 219);
-            border: solid 2px #e35f13;
-        }
+.ax-downloads {
+    h3 {
+        font-weight: 400;
     }
-    label {
-        color: black;
-        position: relative;
-        left: -40%;
+    form {
+        .form-control {
+            background-color: rgb(221, 219, 219);
+            border-radius: 0px;
+            border: solid 2px rgb(214, 213, 213);
+            -webkit-appearance: none;
+            color: rgb(160, 157, 157);
+            width: 100%;
+            -webkit-transition-duration: 0.4s;
+            /* Safari */
+            transition-duration: 0.4s;
+            &:focus {
+                background-color: rgb(221, 219, 219);
+                border: solid 2px #e35f13;
+            }
+        }
+        label {
+            color: black;
+            position: relative;
+            left: -40%;
+        }
     }
 }
 

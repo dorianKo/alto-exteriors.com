@@ -15,15 +15,15 @@ nav {
         &:hover {
             color: #e35f13;
         }
-        &:visited {
-            color: rgb(204, 102, 0);
-        }
     }
     li {
         margin-right: 20px;
     }
     .nav-right {
         color: #e35f13;
+        a {
+            color: #e35f13;
+        }
     }
 }
 

@@ -8,9 +8,40 @@ body {
     padding-bottom: 100px;
 }
 
-.px-6 {
-    padding-left: 100px;
-    padding-right: 100px;
+/*desktop*/
+
+@media screen and (min-width: 1030px) {
+    .px-6 {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+/*tablet-pro*/
+
+@media screen and (max-width: 1029px) {
+    .px-6 {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+/*tablet*/
+
+@media screen and (max-width: 850px) {
+    .px-6 {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+/*mobile*/
+
+@media screen and (max-width: 420px) {
+    .px-6 {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
 }
 
 .mx-6 {

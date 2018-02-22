@@ -14,12 +14,12 @@ nav {
     transition-duration: 0.4s; }
     nav a:hover {
       color: #e35f13; }
-    nav a:visited {
-      color: #cc6600; }
   nav li {
     margin-right: 20px; }
   nav .nav-right {
     color: #e35f13; }
+    nav .nav-right a {
+      color: #e35f13; }
 
 .dropdown-toggle::after {
   display: none; }
