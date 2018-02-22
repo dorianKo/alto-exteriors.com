@@ -1,8 +1,5 @@
-html body {
-    font-family: 'Roboto', sans-serif;
-}
-
 .ax-contact {
+    font-family: 'Roboto', sans-serif;
     background-color: #f4f4f4;
     img {
         width: 100%;
@@ -44,9 +41,7 @@ html body {
 }
 
 .phone-box {
-    .row {
         border: solid 1px rgb(207, 205, 205);
-    }
     i {
         color: #c75411;
         font-size: 20px;
