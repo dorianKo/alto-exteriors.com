@@ -1,0 +1,28 @@
+form {
+    display: inline-block;
+    .form-control {
+        background-color: rgb(243, 242, 242);
+        border-radius: 0px;
+        border-top: solid 2px rgb(214, 213, 213);
+        border-left: solid 2px rgb(214, 213, 213);
+        border-right: none;
+        border-bottom: none;
+        -webkit-appearance: none;
+        color: rgb(160, 157, 157);
+    }
+    label {
+        color: black;
+    }
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    background-color: rgb(243, 242, 242) !important;
+}
+
+select::-ms-expand {
+    display: none;
+}

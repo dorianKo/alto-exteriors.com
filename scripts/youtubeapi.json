@@ -1,0 +1,348 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/mDPGXz1aGChl6Hf-ClIhP3z5Tl8\"",
+    "pageInfo": {
+     "totalResults": 7,
+     "resultsPerPage": 24
+    },
+    "items": [
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/KuZisZ2Vw6nm3x9wsTdimP4ODSE\"",
+      "id": "VVVVazg3ZkpQQmVjbENEd2N5T1lMdXVnLjVSd0dESmxvR1FB",
+      "snippet": {
+       "publishedAt": "2018-02-06T00:38:15.000Z",
+       "channelId": "UCUk87fJPBeclCDwcyOYLuug",
+       "title": "Cold starting my Mercedes Benz E250 Bluetec Diesel (17F)",
+       "description": "Facebook►https://www.facebook.com/corporatehooligans\nInstagram►https://www.instagram.com/corphooligans\nTwitter►https://twitter.com/corphooligans\n\nIf you are interested in ridesharing please check out my other channel as well:\n\nhttps://goo.gl/ru4zZb\n\nReferral codes to drive for Uber and Lyft:\n\nUber referral code: https://partners.uber.com/i/9bieiue\n\nLyft referral code: https://www.lyft.com/drivers/DEZSO182706\n\n\nAll likes and subscriptions are highly appreciated. It helps me keep the channel going :)\n\nThanks for watching!!!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/5RwGDJloGQA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/5RwGDJloGQA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/5RwGDJloGQA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/5RwGDJloGQA/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/5RwGDJloGQA/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Corporate Hooligans",
+       "playlistId": "UUUk87fJPBeclCDwcyOYLuug",
+       "position": 0,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5RwGDJloGQA"
+       }
+      },
+      "contentDetails": {
+       "videoId": "5RwGDJloGQA",
+       "videoPublishedAt": "2018-02-06T00:38:15.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/_40oSPsFSvoRcHNisLWmMs7UP8o\"",
+      "id": "VVVVazg3ZkpQQmVjbENEd2N5T1lMdXVnLjZ0QU42N0VjcDh3",
+      "snippet": {
+       "publishedAt": "2018-02-05T21:39:59.000Z",
+       "channelId": "UCUk87fJPBeclCDwcyOYLuug",
+       "title": "How to change the oil in a 2013 BMW F800R",
+       "description": "This is how you change the oil in your 2013 BMW F800R.\n\nFacebook►https://www.facebook.com/corporatehooligans\nInstagram►https://www.instagram.com/corphooligans\nTwitter►https://twitter.com/corphooligans\n\nIf you are interested in ridesharing please check out my other channel as well:\n\nhttps://goo.gl/ru4zZb\n\nReferral codes to drive for Uber and Lyft:\n\nUber referral code: https://partners.uber.com/i/9bieiue\n\nLyft referral code: https://www.lyft.com/drivers/DEZSO182706\n\n\nAll likes and subscriptions are highly appreciated. It helps me keep the channel going :)\n\nThanks for watching!!!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6tAN67Ecp8w/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6tAN67Ecp8w/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6tAN67Ecp8w/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/6tAN67Ecp8w/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/6tAN67Ecp8w/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Corporate Hooligans",
+       "playlistId": "UUUk87fJPBeclCDwcyOYLuug",
+       "position": 1,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6tAN67Ecp8w"
+       }
+      },
+      "contentDetails": {
+       "videoId": "6tAN67Ecp8w",
+       "videoPublishedAt": "2018-02-05T21:39:59.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/s7gUBr-mT0H72wou9hLQP9dTvZc\"",
+      "id": "VVVVazg3ZkpQQmVjbENEd2N5T1lMdXVnLjctZTVIbC1JcVNn",
+      "snippet": {
+       "publishedAt": "2018-01-26T11:13:29.000Z",
+       "channelId": "UCUk87fJPBeclCDwcyOYLuug",
+       "title": "MPG Test 2014 Mercedes E250 Bluetec From Ohio to New Jersey 470 miles",
+       "description": "Facebook►https://www.facebook.com/corporatehooligans\nInstagram►https://www.instagram.com/corphooligans\nTwitter►https://twitter.com/corphooligans\n\nIf you are interested in ridesharing please check out my other channel as well:\n\nhttps://goo.gl/ru4zZb\n\nReferral codes to drive for Uber and Lyft:\n\nUber referral code: https://partners.uber.com/i/9bieiue\n\nLyft referral code: https://www.lyft.com/drivers/DEZSO182706\n\n\nAll likes and subscriptions are highly appreciated. It helps me keep the channel going :)\n\nThanks for watching!!!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7-e5Hl-IqSg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7-e5Hl-IqSg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7-e5Hl-IqSg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/7-e5Hl-IqSg/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        }
+       },
+       "channelTitle": "Corporate Hooligans",
+       "playlistId": "UUUk87fJPBeclCDwcyOYLuug",
+       "position": 2,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7-e5Hl-IqSg"
+       }
+      },
+      "contentDetails": {
+       "videoId": "7-e5Hl-IqSg",
+       "videoPublishedAt": "2018-01-26T11:13:29.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/3y624SbQWGvaxtqObmZV8AZga3Y\"",
+      "id": "VVVVazg3ZkpQQmVjbENEd2N5T1lMdXVnLkhnRU96bi1MX2M4",
+      "snippet": {
+       "publishedAt": "2018-01-26T09:53:22.000Z",
+       "channelId": "UCUk87fJPBeclCDwcyOYLuug",
+       "title": "Finally bought my DREAM car!",
+       "description": "After many years of dreaming about this day, I finally bought my 2014 Mercedes Benz E250 BlueTec. Drove 7 hours to get this diesel beauty but It was well worth it.\n\nFacebook►https://www.facebook.com/corporatehooligans\nInstagram►https://www.instagram.com/corphooligans\nTwitter►https://twitter.com/corphooligans\n\nIf you are interested in ridesharing please check out my other channel as well:\n\nhttps://goo.gl/ru4zZb\n\nUber referral code: https://partners.uber.com/i/9bieiue\n\nLyft referral code: https://www.lyft.com/drivers/DEZSO182706\n\nAll likes and subscriptions are highly appreciated. It helps me keep the channel going :)\n\nThanks for watching!!!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/HgEOzn-L_c8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/HgEOzn-L_c8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/HgEOzn-L_c8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/HgEOzn-L_c8/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/HgEOzn-L_c8/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Corporate Hooligans",
+       "playlistId": "UUUk87fJPBeclCDwcyOYLuug",
+       "position": 3,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HgEOzn-L_c8"
+       }
+      },
+      "contentDetails": {
+       "videoId": "HgEOzn-L_c8",
+       "videoPublishedAt": "2018-01-26T09:53:22.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/Nzw0oZ9J8OQw7W1lswZmkYWyz9o\"",
+      "id": "VVVVazg3ZkpQQmVjbENEd2N5T1lMdXVnLmlWa0kya0NqeGVN",
+      "snippet": {
+       "publishedAt": "2018-01-23T01:14:14.000Z",
+       "channelId": "UCUk87fJPBeclCDwcyOYLuug",
+       "title": "Huge things are coming to the channel!!!",
+       "description": "I'm getting something new for this channel! Stay tuned and subscribe! :D\n\nThe website is coming soon:\nwww.corporatehooligans.com\n\nFacebook►https://www.facebook.com/corporatehoo...\nInstagram►https://www.instagram.com/corphooliga...\nTwitter►https://twitter.com/corphooligans",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/iVkI2kCjxeM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/iVkI2kCjxeM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/iVkI2kCjxeM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/iVkI2kCjxeM/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/iVkI2kCjxeM/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Corporate Hooligans",
+       "playlistId": "UUUk87fJPBeclCDwcyOYLuug",
+       "position": 4,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iVkI2kCjxeM"
+       }
+      },
+      "contentDetails": {
+       "videoId": "iVkI2kCjxeM",
+       "videoPublishedAt": "2018-01-23T01:14:14.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/sxjdL2VHGEHudycYo0pynKYuwaY\"",
+      "id": "VVVVazg3ZkpQQmVjbENEd2N5T1lMdXVnLnlpZGxnWDgwRkVJ",
+      "snippet": {
+       "publishedAt": "2018-01-23T00:36:04.000Z",
+       "channelId": "UCUk87fJPBeclCDwcyOYLuug",
+       "title": "My BMW F800R won't start :(",
+       "description": "The battery is completely dead in my BMW F800R\n\nThe website is coming soon:\nwww.corporatehooligans.com\n\nFacebook►https://www.facebook.com/corporatehoo...\nInstagram►https://www.instagram.com/corphooliga...\nTwitter►https://twitter.com/corphooligans",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/yidlgX80FEI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/yidlgX80FEI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/yidlgX80FEI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/yidlgX80FEI/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/yidlgX80FEI/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Corporate Hooligans",
+       "playlistId": "UUUk87fJPBeclCDwcyOYLuug",
+       "position": 5,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yidlgX80FEI"
+       }
+      },
+      "contentDetails": {
+       "videoId": "yidlgX80FEI",
+       "videoPublishedAt": "2018-01-23T00:36:04.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/MryHOednZksTxz8hpnPqk5xoEOo\"",
+      "id": "VVVVazg3ZkpQQmVjbENEd2N5T1lMdXVnLjlMR2s0UDBBV3Fz",
+      "snippet": {
+       "publishedAt": "2017-04-05T17:45:21.000Z",
+       "channelId": "UCUk87fJPBeclCDwcyOYLuug",
+       "title": "Took a ride from New Jersey to Toronto on my BMW F800R",
+       "description": "Hey, Hooligans! Last year I rode my F800R to Toronto from New Jersey! This is a time lapse of the trip! I hope you enjoy it!\n\nThe website is coming soon:\nwww.corporatehooligans.com\n\nFacebook►https://www.facebook.com/corporatehooligans/\nInstagram►https://www.instagram.com/corphooligans/?hl=en\nTwitter►https://twitter.com/corphooligans\n\nMusic used in this video:\n\nDEAF KEV – Invincible [NCS Release]\nhttps://www.youtube.com/watch?v=J2X5mJ3HDYE\n\nTobu – Hope [NCS Release]\nhttps://www.youtube.com/watch?v=EP625xQIGzs\n\nItro & Tobu – Cloud 9 [NCS Release]\nhttps://www.youtube.com/watch?v=VtKbiyyVZks\n\nJim Yosef – Firefly [NCS Release]\nhttps://www.youtube.com/watch?v=x_OwcYTNbHs",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9LGk4P0AWqs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9LGk4P0AWqs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9LGk4P0AWqs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/9LGk4P0AWqs/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/9LGk4P0AWqs/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Corporate Hooligans",
+       "playlistId": "UUUk87fJPBeclCDwcyOYLuug",
+       "position": 6,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9LGk4P0AWqs"
+       }
+      },
+      "contentDetails": {
+       "videoId": "9LGk4P0AWqs",
+       "videoPublishedAt": "2017-04-05T17:45:21.000Z"
+      }
+     }
+    ]
+   }

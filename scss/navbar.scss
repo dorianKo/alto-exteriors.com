@@ -1,0 +1,126 @@
+nav {
+    background-color: white;
+    color: #333333;
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    text-transform: uppercase;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    a {
+        color: #333333;
+        -webkit-transition-duration: 0.4s;
+        /* Safari */
+        transition-duration: 0.4s;
+        &:hover {
+            color: #e35f13;
+        }
+        &:visited {
+            color: rgb(204, 102, 0);
+        }
+    }
+    li {
+        margin-right: 20px;
+    }
+    .nav-right {
+        color: #e35f13;
+    }
+}
+
+.dropdown-toggle::after {
+    display: none
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(204, 102, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    margin-top: 20px;
+}
+
+/*desktop*/
+
+@media screen and (min-width: 1030px) {
+    .dropdown-menu {
+        font-family: 'Roboto', sans-serif;
+        text-decoration: bold;
+        img {
+            height: 45px;
+            position: absolute;
+            right: 5%;
+            padding-bottom: 15px;
+        }
+        a {
+            padding-bottom: 15px;
+        }
+    }
+    .nav-right {
+        position: relative;
+        right: -17%;
+        color: #e35f13;
+    }
+}
+
+/*tablet-pro*/
+
+@media screen and (max-width: 1029px) {
+    .dropdown-menu {
+        font-family: 'Roboto', sans-serif;
+        text-decoration: bold;
+        img {
+            height: 50px;
+            position: absolute;
+            right: 5%;
+            padding-bottom: 20px;
+        }
+        a {
+            padding-bottom: 20px;
+        }
+    }
+    .nav-right {
+        position: relative;
+        right: -8%;
+    }
+}
+
+/*tablet*/
+
+@media screen and (max-width: 850px) {
+    .dropdown-menu {
+        font-family: 'Roboto', sans-serif;
+        text-decoration: bold;
+        img {
+            height: 45px;
+            position: absolute;
+            right: 75%;
+            padding-bottom: 15px;
+        }
+        a {
+            padding-bottom: 15px;
+        }
+    }
+}
+
+/*mobile*/
+
+@media screen and (max-width: 420px) {
+    .dropdown-menu {
+        font-family: 'Roboto', sans-serif;
+        text-decoration: bold;
+        img {
+            height: 45px;
+            position: absolute;
+            right: 5%;
+            padding-bottom: 15px;
+        }
+        a {
+            padding-bottom: 15px;
+        }
+    }
+}
+
+.active .nav-link {
+    color: #333333;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "altos-exterior.com",
+  "version": "1.0.0",
+  "description": "altos-exterior-site",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "build": "gulp styles",
+    "watch": "gulp"
+  },
+  "author": "TaffyTech",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

@@ -1,0 +1,123 @@
+/*desktop*/
+@media screen and (min-width: 1030px) {
+  .ax-downloads {
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif; }
+    .ax-downloads img {
+      width: 100%;
+      border: solid white 8px;
+      border-radius: 1%; }
+    .ax-downloads .btn {
+      background-color: #e35f13;
+      border-radius: 0;
+      color: white;
+      text-transform: uppercase;
+      font-size: 12px;
+      -webkit-transition-duration: 0.4s;
+      /* Safari */
+      transition-duration: 0.4s; }
+      .ax-downloads .btn:hover {
+        background-color: #c75411; }
+      .ax-downloads .btn:active, .ax-downloads .btn:focus {
+        border: 0px; } }
+
+/*tablet-pro*/
+@media screen and (max-width: 1029px) {
+  .ax-downloads {
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif; }
+    .ax-downloads img {
+      width: 100%;
+      border: solid white 8px;
+      border-radius: 1%; }
+    .ax-downloads .btn {
+      background-color: #e35f13;
+      border-radius: 0;
+      color: white;
+      text-transform: uppercase;
+      font-size: 12px;
+      -webkit-transition-duration: 0.4s;
+      /* Safari */
+      transition-duration: 0.4s; }
+      .ax-downloads .btn:hover {
+        background-color: #c75411; }
+      .ax-downloads .btn:active, .ax-downloads .btn:focus {
+        border: 0px; } }
+
+/*tablet*/
+@media screen and (max-width: 850px) {
+  .ax-downloads {
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif; }
+    .ax-downloads img {
+      width: 100%;
+      border: solid white 8px;
+      border-radius: 1%; }
+    .ax-downloads .btn {
+      background-color: #e35f13;
+      border-radius: 0;
+      color: white;
+      text-transform: uppercase;
+      font-size: 12px;
+      -webkit-transition-duration: 0.4s;
+      /* Safari */
+      transition-duration: 0.4s; }
+      .ax-downloads .btn:hover {
+        background-color: #c75411; }
+      .ax-downloads .btn:active, .ax-downloads .btn:focus {
+        border: 0px; } }
+
+/*mobile*/
+@media screen and (max-width: 420px) {
+  .ax-downloads {
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif; }
+    .ax-downloads img {
+      width: 100%;
+      border: solid white 8px;
+      border-radius: 1%; }
+    .ax-downloads .btn {
+      background-color: #e35f13;
+      border-radius: 0;
+      color: white;
+      text-transform: uppercase;
+      font-size: 12px;
+      -webkit-transition-duration: 0.4s;
+      /* Safari */
+      transition-duration: 0.4s; }
+      .ax-downloads .btn:hover {
+        background-color: #c75411; }
+      .ax-downloads .btn:active, .ax-downloads .btn:focus {
+        border: 0px; } }
+
+.ax-downloads h3 {
+  font-weight: 400; }
+
+form .form-control {
+  background-color: #dddbdb;
+  border-radius: 0px;
+  border: solid 2px #d6d5d5;
+  -webkit-appearance: none;
+  color: #a09d9d;
+  width: 100%;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s; }
+  form .form-control:focus {
+    background-color: #dddbdb;
+    border: solid 2px #e35f13; }
+
+form label {
+  color: black;
+  position: relative;
+  left: -40%; }
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+  background-color: #f3f2f2 !important; }
+
+select::-ms-expand {
+  display: none; }

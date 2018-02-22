@@ -1,0 +1,45 @@
+.ax-bottom {
+  background-color: #333333;
+  font-family: "Roboto", sans-serif; }
+  .ax-bottom .navigation a {
+    color: #999999;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s; }
+    .ax-bottom .navigation a:hover {
+      color: #c75411;
+      text-decoration: none; }
+  .ax-bottom .navigation p {
+    font-weight: 300;
+    font-size: 11px; }
+  .ax-bottom .navigation h4 {
+    color: white;
+    font-weight: 300;
+    font-size: 14px;
+    font-weight: 700; }
+  .ax-bottom .navigation h3 {
+    font-size: 17px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500; }
+  .ax-bottom .navigation img {
+    width: 130px; }
+  .ax-bottom .left-blurb p {
+    color: #cccccc;
+    font-weight: 300;
+    font-size: 14px; }
+  .ax-bottom .left-blurb a {
+    color: white; }
+  .ax-bottom .left-blurb .btn {
+    background-color: #e35f13;
+    border-radius: 0;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s; }
+    .ax-bottom .left-blurb .btn:hover {
+      background-color: #c75411; }
+    .ax-bottom .left-blurb .btn:active, .ax-bottom .left-blurb .btn:focus {
+      border: 0px; }

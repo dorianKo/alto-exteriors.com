@@ -1,0 +1,253 @@
+/*mobile*/
+@media screen and (max-width: 420px) {
+  .hover-slide {
+    position: absolute;
+    width: 100%;
+    top: 110px;
+    left: 8%; }
+  .ax-hero {
+    font-family: 'Roboto', sans-serif;
+    /* .carousel-item .img-fluid {
+      width: 100%;
+      height: 100%;
+    } */ }
+    .ax-hero img {
+      -webkit-filter: contrast(90%);
+      /* Safari 6.0 - 9.0 */
+      filter: contrast(90%);
+      width: auto;
+      height: auto;
+      max-width: 100%; }
+    .ax-hero .carousel-item {
+      height: 500px; }
+    .ax-hero .carousel {
+      position: relative; }
+    .ax-hero h4 {
+      color: #cccccc;
+      font-weight: 200;
+      font-size: 12px; }
+    .ax-hero h1 {
+      color: white;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 40px; }
+    .ax-hero .all-caps {
+      text-transform: uppercase; }
+  .carousel-control-next-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(255, 255, 255, 0);
+    width: 50px;
+    height: 50px;
+    background-image: none;
+    font-size: 30px;
+    color: white;
+    opacity: 1; } }
+
+/*tablet*/
+@media screen and (min-width: 767px) {
+  .hover-slide {
+    position: absolute;
+    width: 100%;
+    top: 18%;
+    left: 10%; }
+  .ax-hero {
+    font-family: 'Roboto', sans-serif;
+    /* .carousel-item .img-fluid {
+      width: 100%;
+      height: 100%;
+    } */ }
+    .ax-hero img {
+      -webkit-filter: contrast(90%);
+      /* Safari 6.0 - 9.0 */
+      filter: contrast(90%);
+      width: auto;
+      height: auto;
+      max-width: 100%; }
+    .ax-hero .carousel-item {
+      height: 500px; }
+    .ax-hero .carousel {
+      position: relative; }
+    .ax-hero h4 {
+      color: #cccccc;
+      font-weight: 200;
+      font-size: 12px; }
+    .ax-hero h1 {
+      color: white;
+      font-size: 19px;
+      line-height: 28px;
+      font-weight: 400; }
+    .ax-hero .all-caps {
+      text-transform: uppercase; }
+  .carousel-control-next-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(255, 255, 255, 0);
+    width: 50px;
+    height: 50px;
+    background-image: none;
+    font-size: 30px;
+    color: white;
+    opacity: 1; } }
+
+/*tablet-pro*/
+@media screen and (min-width: 1023px) {
+  .hover-slide {
+    position: absolute;
+    width: 100%;
+    top: 22%;
+    left: 15%; }
+  .ax-hero {
+    font-family: 'Roboto', sans-serif;
+    /* .carousel-item .img-fluid {
+      width: 100%;
+      height: 100%;
+    } */ }
+    .ax-hero img {
+      -webkit-filter: contrast(90%);
+      /* Safari 6.0 - 9.0 */
+      filter: contrast(90%);
+      width: auto;
+      height: auto;
+      max-width: 100%; }
+    .ax-hero .carousel-item {
+      height: 500px; }
+    .ax-hero .carousel {
+      position: relative; }
+    .ax-hero h4 {
+      color: #cccccc;
+      font-weight: 200;
+      font-size: 12px; }
+    .ax-hero h1 {
+      color: white;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 40px; }
+    .ax-hero .all-caps {
+      text-transform: uppercase; }
+  .carousel-control-next-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(255, 255, 255, 0);
+    width: 50px;
+    height: 50px;
+    background-image: none;
+    font-size: 30px;
+    color: white;
+    opacity: 1; } }
+
+/*desktop*/
+@media screen and (min-width: 1050px) {
+  .hover-slide {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 15%; }
+  .ax-hero {
+    font-family: 'Roboto', sans-serif;
+    /* .carousel-item .img-fluid {
+      width: 100%;
+      height: 100%;
+    } */ }
+    .ax-hero img {
+      -webkit-filter: contrast(90%);
+      /* Safari 6.0 - 9.0 */
+      filter: contrast(90%);
+      width: auto;
+      height: auto;
+      max-width: 100%; }
+    .ax-hero .carousel-item {
+      height: 500px; }
+    .ax-hero .carousel {
+      position: relative; }
+    .ax-hero h4 {
+      color: #cccccc;
+      font-weight: 200;
+      font-size: 12px; }
+    .ax-hero h1 {
+      color: white;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 40px; }
+    .ax-hero .all-caps {
+      text-transform: uppercase; }
+  .carousel-control-next-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon:after {
+    content: '';
+    font-size: 45px;
+    color: white; }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(255, 255, 255, 0);
+    width: 50px;
+    height: 50px;
+    background-image: none;
+    font-size: 30px;
+    color: white;
+    opacity: 1; } }
+
+@media screen and (min-width: 450px) {
+  .carousel-indicators--round li {
+    border-radius: 8px;
+    margin: 1px 3px;
+    height: 12px;
+    max-width: 12px;
+    background-color: #f8f6f6;
+    left: 0%;
+    border-color: white; }
+  .carousel-indicators .active {
+    background-color: rgba(14, 13, 13, 0);
+    max-width: 12px;
+    margin: 1px 3px;
+    height: 12px;
+    border: 1px solid white; } }
+
+@media screen and (max-width: 449px) {
+  .carousel-indicators--round li {
+    border-radius: 8px;
+    margin: 1px 3px;
+    height: 12px;
+    max-width: 12px;
+    background-color: #f8f6f6;
+    left: 0%;
+    border-color: white;
+    top: 20px; }
+  .carousel-indicators .active {
+    background-color: rgba(14, 13, 13, 0);
+    max-width: 12px;
+    margin: 1px 3px;
+    height: 12px;
+    border: 1px solid white; } }
+
+.hero-mobile {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4; }
+  .hero-mobile h3 {
+    font-size: 28px; }
+  .hero-mobile a {
+    font-size: 50px;
+    margin-top: 20px; }

@@ -1,0 +1,23 @@
+form {
+  display: inline-block; }
+  form .form-control {
+    background-color: #f3f2f2;
+    border-radius: 0px;
+    border-top: solid 2px #d6d5d5;
+    border-left: solid 2px #d6d5d5;
+    border-right: none;
+    border-bottom: none;
+    -webkit-appearance: none;
+    color: #a09d9d; }
+  form label {
+    color: black; }
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+  background-color: #f3f2f2 !important; }
+
+select::-ms-expand {
+  display: none; }
