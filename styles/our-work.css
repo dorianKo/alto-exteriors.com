@@ -19,6 +19,10 @@
     text-transform: uppercase; }
   .ax-work .carousel h4 {
     font-size: 15px; }
+  .ax-work .carousel img {
+    object-fit: cover;
+    width: 100%;
+    height: 20vh; }
   .ax-work .btn {
     background-color: #e35f13;
     border-radius: 0;
@@ -80,6 +84,7 @@
         border: 0px; }
 
 .email-box {
+  font-family: 'Roboto', sans-serif;
   border: solid 1px #111111;
   background-color: #363636; }
   .email-box i {
@@ -90,4 +95,32 @@
     font-size: 14px; }
   .email-box h5 {
     text-transform: uppercase;
-    font-size: 18px; }
+    font-size: 18px;
+    color: white; }
+  .email-box .btn {
+    background-color: #727070;
+    border-radius: 0;
+    color: white;
+    text-transform: uppercase;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s; }
+    .email-box .btn a {
+      font-size: 14px; }
+    .email-box .btn:hover {
+      background-color: #c5c2c2; }
+    .email-box .btn:active, .email-box .btn:focus {
+      border: 0px; }
+  .email-box form .form-control {
+    background-color: white;
+    border-radius: 0px;
+    border: solid 1px black;
+    -webkit-appearance: none;
+    color: #202020;
+    width: 100%;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s; }
+    .email-box form .form-control:focus {
+      background-color: #dddbdb;
+      border: solid 1px #e35f13; }
