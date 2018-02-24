@@ -1,29 +1,34 @@
-.ax-work {
+@charset "UTF-8";
+.ax-services {
   font-family: 'Roboto', sans-serif;
   background-color: #f4f4f4; }
-  .ax-work img {
+  .ax-services img {
     width: 100%; }
-  .ax-work a {
+  .ax-services p {
+    line-height: 30px; }
+    .ax-services p a {
+      color: #e35f13; }
+  .ax-services a {
     color: #000000;
     -webkit-transition-duration: 0.4s;
     /* Safari */
     transition-duration: 0.4s; }
-    .ax-work a:hover {
+    .ax-services a:hover {
       color: #e35f13;
       text-decoration: none; }
-    .ax-work a:visited {
+    .ax-services a:visited {
       color: #cc6600; }
-  .ax-work .carousel h5 {
+  .ax-services .carousel h5 {
     color: #c75411;
     font-size: 12px;
     text-transform: uppercase; }
-  .ax-work .carousel h4 {
+  .ax-services .carousel h4 {
     font-size: 15px; }
-  .ax-work .carousel img {
+  .ax-services .carousel img {
     object-fit: cover;
     width: 100%;
     height: 20vh; }
-  .ax-work .btn {
+  .ax-services .btn {
     background-color: #e35f13;
     border-radius: 0;
     color: white;
@@ -32,56 +37,28 @@
     -webkit-transition-duration: 0.4s;
     /* Safari */
     transition-duration: 0.4s; }
-    .ax-work .btn:hover {
+    .ax-services .btn:hover {
       background-color: #c75411; }
-    .ax-work .btn:active, .ax-work .btn:focus {
+    .ax-services .btn:active, .ax-services .btn:focus {
       border: 0px; }
-  .ax-work form .form-control {
-    background-color: #dddbdb;
-    border-radius: 0px;
-    border: solid 2px #d6d5d5;
-    -webkit-appearance: none;
-    color: #a09d9d;
-    width: 100%;
-    -webkit-transition-duration: 0.4s;
-    /* Safari */
-    transition-duration: 0.4s; }
-    .ax-work form .form-control:focus {
-      background-color: #dddbdb;
-      border: solid 2px #e35f13; }
-  .ax-work .video-controls {
-    font-family: 'Roboto', sans-serif; }
-    .ax-work .video-controls button {
-      background-color: #f4f4f4;
-      border: none;
-      color: black;
-      padding-right: 10px;
-      padding-left: 10px;
-      padding-top: 2px;
-      margin-right: 15px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      -webkit-transition-duration: 0.4s;
-      /* Safari */
-      transition-duration: 0.4s; }
-      .ax-work .video-controls button:hover, .ax-work .video-controls button:active, .ax-work .video-controls button:focus {
-        background-color: #e6e4e4;
-        outline: none; }
-    .ax-work .video-controls .btn {
-      background-color: #e35f13;
-      border-radius: 0;
-      color: white;
-      text-transform: uppercase;
-      font-size: 12px;
-      -webkit-transition-duration: 0.4s;
-      /* Safari */
-      transition-duration: 0.4s; }
-      .ax-work .video-controls .btn:hover {
-        background-color: #c75411; }
-      .ax-work .video-controls .btn:active, .ax-work .video-controls .btn:focus {
-        border: 0px; }
+  .ax-services ul {
+    list-style: none;
+    padding-top: 0px; }
+  .ax-services li {
+    padding-top: 10px;
+    list-style-position: inside;
+    text-indent: -2.5em; }
+    .ax-services li a {
+      text-decoration: underline; }
+  .ax-services li::before {
+    content: "•";
+    color: #e35f13;
+    margin-left: 0;
+    margin-right: 10px;
+    font-size: 18px; }
+
+hr {
+  border: 0.5px solid #8a8888; }
 
 .email-box {
   font-family: 'Roboto', sans-serif;
@@ -92,7 +69,8 @@
     font-size: 20px; }
   .email-box p {
     color: white;
-    font-size: 14px; }
+    font-size: 14px;
+    line-height: 20px; }
   .email-box h5 {
     text-transform: uppercase;
     font-size: 18px;
@@ -132,7 +110,8 @@
     font-size: 20px; }
   .phone-box p {
     color: #363636;
-    font-size: 14px; }
+    font-size: 14px;
+    line-height: 22px; }
   .phone-box h5 {
     text-transform: uppercase;
     font-size: 18px; }

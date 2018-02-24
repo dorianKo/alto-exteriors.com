@@ -1,8 +1,13 @@
-.ax-work {
+.ax-services {
     font-family: 'Roboto', sans-serif;
     background-color: #f4f4f4;
     img {
         width: 100%;
+    }
+    p {
+        line-height: 30px;
+        a {
+            color: #e35f13; }
     }
     a {
         color: #000000;
@@ -49,65 +54,29 @@
             border: 0px;
         }
     }
-    form {
-        .form-control {
-            background-color: rgb(221, 219, 219);
-            border-radius: 0px;
-            border: solid 2px rgb(214, 213, 213);
-            -webkit-appearance: none;
-            color: rgb(160, 157, 157);
-            width: 100%;
-            -webkit-transition-duration: 0.4s;
-            /* Safari */
-            transition-duration: 0.4s;
-            &:focus {
-                background-color: rgb(221, 219, 219);
-                border: solid 2px #e35f13;
-            }
+    ul {
+        list-style: none;
+        padding-top: 0px;
+    }
+    li {
+        padding-top: 10px;
+        list-style-position: inside;
+        text-indent: -2.5em;
+        a {
+            text-decoration: underline;
         }
     }
-    .video-controls {
-        font-family: 'Roboto', sans-serif;
-        button {
-            background-color: #f4f4f4;
-            border: none;
-            color: black;
-            padding-right: 10px;
-            padding-left: 10px;
-            padding-top: 2px;
-            margin-right: 15px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            -webkit-transition-duration: 0.4s;
-            /* Safari */
-            transition-duration: 0.4s;
-            &:hover,
-            &:active,
-            &:focus {
-                background-color: rgb(230, 228, 228);
-                outline: none;
-            }
-        }
-        .btn {
-            background-color: #e35f13;
-            border-radius: 0;
-            color: white;
-            text-transform: uppercase;
-            font-size: 12px;
-            -webkit-transition-duration: 0.4s;
-            /* Safari */
-            transition-duration: 0.4s;
-            &:hover {
-                background-color: #c75411;
-            }
-            &:active,
-            &:focus {
-                border: 0px;
-            }
-        }
+    li::before {
+        content: "•";
+        color: #e35f13;
+        margin-left: 0;
+        margin-right: 10px;
+        font-size: 18px;
     }
+}
+
+hr {
+    border: 0.5px solid rgb(138, 136, 136);
 }
 
 .email-box {
@@ -121,6 +90,7 @@
     p {
         color: white;
         font-size: 14px;
+        line-height: 20px;
     }
     h5 {
         text-transform: uppercase;
@@ -174,6 +144,7 @@ i {
 p {
     color: rgb(54, 54, 54);
     font-size: 14px;
+    line-height: 22px;
 }
 h5 {
     text-transform: uppercase;

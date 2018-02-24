@@ -124,15 +124,3 @@
     .email-box form .form-control:focus {
       background-color: #dddbdb;
       border: solid 1px #e35f13; }
-
-.phone-box {
-  border: solid 1px #cfcdcd; }
-  .phone-box i {
-    color: #c75411;
-    font-size: 20px; }
-  .phone-box p {
-    color: #363636;
-    font-size: 14px; }
-  .phone-box h5 {
-    text-transform: uppercase;
-    font-size: 18px; }
